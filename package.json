@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a description",
+  "main": "1-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clawebdevbootcamp/cla-hands-on-node-js.git"
+  },
+  "author": "Abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clawebdevbootcamp/cla-hands-on-node-js/issues"
+  },
+  "homepage": "https://github.com/clawebdevbootcamp/cla-hands-on-node-js#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "generate-password": "^1.7.0",
+    "nodemon": "^2.0.19"
+  }
+}
